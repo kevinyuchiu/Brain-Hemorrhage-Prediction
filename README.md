@@ -6,3 +6,9 @@
 2. April 13, 2017 - Formed group
 
 3. April 15, 2017 - Started developing website for timeline and preliminary results
+
+4. April 19, 2017 - Met Dr. Yannan Yu to know more about the project details
+
+5. April 22, 2017 - Recieved Data from Dr. Scalzo
+
+6. April 25, 2017 - Made a simple Decision Tree Classifier without any data transformation and got an accuracy of 95.8%.
