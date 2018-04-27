@@ -12,3 +12,5 @@
 5. April 22, 2017 - Recieved Data from Dr. Scalzo
 
 6. April 25, 2017 - Made a simple Decision Tree Classifier without any data transformation and got an accuracy of 95.8%.
+
+7. April 27, 2017 - Used Standard Scaler to see if it makes any improvement. No good improvement seen. 
