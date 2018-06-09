@@ -45,3 +45,12 @@
 1. It is very simple to run the code. Simply install all the above mentioned libraries and run the jupyter notebooks cell by cell in order.
 
 2. Make sure you change the folder directories as they are local to mine.
+
+# File Descriptions
+
+1. Basic_Model.ipynb --> This includes the Decision Tree and XGboost trained on all features.
+2. Model_18feat.ipynb --> This includes the Decision Tree and XGboost models trained on 18 time independent features. 
+3. Model_timeseries.ipynb --> This includes the LSTM model trained on 600 time series features. 
+4. Multi_input_model.ipynb --> This includes the multi input model which takes in both of the features but treats them separately. 
+5. Evaluation.ipynb --> This includes code for generating ROC curves and confidence intervals for LSTM and multi input models
+6. Result_visualisation.ipynb --> This includes code for generating heats maps on real world brain MRI scans. 
